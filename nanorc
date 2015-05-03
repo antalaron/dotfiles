@@ -1,0 +1,15 @@
+# 4 spaces instead of tab
+set tabsize 4
+set tabstospaces
+
+# autoindent
+set autoindent
+
+# enable mouse
+set mouse
+
+# no new lines to the end of the files
+set nonewlines
+
+# whitespaces
+set whitespace "«·"
